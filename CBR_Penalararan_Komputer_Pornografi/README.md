@@ -149,7 +149,7 @@ Ulangi langkah ini untuk notebook lainnya.
 - **Log File**: Log aktivitas disimpan di folder `logs/` untuk debugging dan pelacakan.
 
 ## Contoh Output
-1. **Scraper**: Folder `PDF/Korupsi/` dan `PDF/Non Korupsi/` akan berisi file PDF, dan `data/raw/` akan berisi file teks (`case_001.txt`, `case_002.txt`, dll.).
+1. **Scraper**: Folder `PDF/Pornografi/` dan `PDF/Non Pornografi/` akan berisi file PDF, dan `data/raw/` akan berisi file teks (`case_001.txt`, `case_002.txt`, dll.).
 2. **Metadata**: File `data/processed/cases.csv` berisi kolom seperti `case_id`, `nomor_perkara`, `ringkasan_fakta`, dll.
 3. **Retrieval**: Output notebook menampilkan akurasi@5 dan recall@10 untuk IndoBERT dan Logistic Regression.
 4. **Prediksi**: File CSV di `data/results/` berisi prediksi solusi dan top-5 case ID.
