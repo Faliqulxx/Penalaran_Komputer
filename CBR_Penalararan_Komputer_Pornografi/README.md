@@ -20,7 +20,7 @@ Untuk menjalankan proyek ini, pastikan Anda memiliki:
 ## Instalasi
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/alfitranurr/PENALARAN-KOMPUTER.git
+   git clone https://github.com/Faliqulxx/PENALARAN-KOMPUTER.git
    cd CBR_Penalararan_Komputer
    cd CBR/notebooks
    ```
@@ -171,4 +171,4 @@ Jika Anda ingin berkontribusi:
 
 ## Kontak
 Untuk pertanyaan atau dukungan, hubungi:
-- GitHub Issues: [https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues](https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues)
+- GitHub Issues: [https://github.com/Faliqulxx/PENALARAN-KOMPUTER/issues](https://github.com/Faliqulxx/PENALARAN-KOMPUTER/issues)
