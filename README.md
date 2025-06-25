@@ -171,4 +171,4 @@ Jika Anda ingin berkontribusi:
 
 ## Kontak
 Untuk pertanyaan atau dukungan, hubungi:
-- GitHub Issues: [https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues](https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues)
+- GitHub Issues: [https://github.com/alfitranurr/PENALARAN-KOMPUTER/issues](https://github.com/Faliqulxx/PENALARAN-KOMPUTER/issues)
