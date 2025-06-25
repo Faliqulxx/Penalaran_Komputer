@@ -1,0 +1,47 @@
+2025-06-26 02:42:55,588 - INFO - Starting retrieval process at 2025-06-26 02:42:55
+2025-06-26 02:42:55,591 - INFO - Loading SentenceTransformer model: indobenchmark/indobert-base-p1 on cpu
+2025-06-26 02:42:55,595 - INFO - Load pretrained SentenceTransformer: indobenchmark/indobert-base-p1
+2025-06-26 02:42:56,415 - WARNING - No sentence-transformers model found with name indobenchmark/indobert-base-p1. Creating a new one with mean pooling.
+2025-06-26 02:42:57,858 - INFO - Loading CrossEncoder model: cross-encoder/mmarco-mMiniLMv2-L12-H384-v1
+2025-06-26 02:42:59,941 - INFO - Loading dataset from c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-26 02:42:59,944 - INFO - Loaded 50 cases from c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\data\processed\cases.csv
+2025-06-26 02:42:59,945 - INFO - Preprocessing texts
+2025-06-26 02:42:59,950 - INFO - Initializing BM25Okapi with k1=1.5, b=0.75
+2025-06-26 02:42:59,951 - INFO - Encoding documents
+2025-06-26 02:43:00,661 - INFO - Document embeddings shape: (50, 768)
+2025-06-26 02:43:00,662 - INFO - Loading evaluation queries from c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\data\eval\queries.json
+2025-06-26 02:43:00,664 - INFO - Loaded 5 evaluation queries
+2025-06-26 02:43:00,665 - INFO - Evaluating with alpha=0.4
+2025-06-26 02:43:01,159 - INFO - Alpha=0.4: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:01,160 - INFO - Evaluating with alpha=0.5
+2025-06-26 02:43:01,718 - INFO - Alpha=0.5: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:01,718 - INFO - Evaluating with alpha=0.6
+2025-06-26 02:43:02,232 - INFO - Alpha=0.6: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:02,233 - INFO - Evaluating with alpha=0.7
+2025-06-26 02:43:02,724 - INFO - Alpha=0.7: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:02,725 - INFO - Evaluating with alpha=0.8
+2025-06-26 02:43:03,242 - INFO - Alpha=0.8: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:03,243 - INFO - Evaluating with alpha=0.9
+2025-06-26 02:43:03,739 - INFO - Alpha=0.9: Accuracy@5=1.00, Recall@10=1.00, MRR=1.00
+2025-06-26 02:43:03,740 - INFO - Best alpha: 0.4 with Accuracy@5: 1.00
+2025-06-26 02:43:03,847 - INFO - Query: Legal dispute case 1...
+2025-06-26 02:43:03,848 - INFO - Top 5 Results (ID, Score): [('CASE_1', 2.608067512512207), ('CASE_22', -0.31125199794769287), ('CASE_14', -0.4097851812839508), ('CASE_21', -0.5466586947441101), ('CASE_15', -0.6090864539146423)]
+2025-06-26 02:43:03,849 - INFO - ✅ FOUND in Top-5: CASE_1
+2025-06-26 02:43:03,959 - INFO - Query: Legal dispute case 2...
+2025-06-26 02:43:03,960 - INFO - Top 5 Results (ID, Score): [('CASE_2', 3.8508942127227783), ('CASE_38', -0.8265905380249023), ('CASE_22', -0.8423956036567688), ('CASE_36', -0.8646412491798401), ('CASE_34', -0.9493110179901123)]
+2025-06-26 02:43:03,962 - INFO - ✅ FOUND in Top-5: CASE_2
+2025-06-26 02:43:04,124 - INFO - Query: Legal dispute case 3...
+2025-06-26 02:43:04,125 - INFO - Top 5 Results (ID, Score): [('CASE_3', 4.667585372924805), ('CASE_36', -1.0952690839767456), ('CASE_33', -1.183658480644226), ('CASE_14', -1.195757269859314), ('CASE_6', -1.4958274364471436)]
+2025-06-26 02:43:04,126 - INFO - ✅ FOUND in Top-5: CASE_3
+2025-06-26 02:43:04,226 - INFO - Query: Legal dispute case 4...
+2025-06-26 02:43:04,227 - INFO - Top 5 Results (ID, Score): [('CASE_4', 5.204360008239746), ('CASE_14', -1.1908042430877686), ('CASE_22', -1.2686344385147095), ('CASE_6', -1.426748275756836), ('CASE_5', -1.6177444458007812)]
+2025-06-26 02:43:04,228 - INFO - ✅ FOUND in Top-5: CASE_4
+2025-06-26 02:43:04,329 - INFO - Query: Legal dispute case 5...
+2025-06-26 02:43:04,330 - INFO - Top 5 Results (ID, Score): [('CASE_5', 5.066492080688477), ('CASE_14', -1.138248085975647), ('CASE_15', -1.138985514640808), ('CASE_25', -1.1671863794326782), ('CASE_6', -1.1803070306777954)]
+2025-06-26 02:43:04,331 - INFO - ✅ FOUND in Top-5: CASE_5
+2025-06-26 02:43:04,333 - INFO - IndoBERT-Base-P1 Accuracy@5: 5/5 = 1.00
+2025-06-26 02:43:04,334 - INFO - IndoBERT-Base-P1 Recall@10: 5/5 = 1.00
+2025-06-26 02:43:04,335 - INFO - IndoBERT-Base-P1 MRR: 1.00
+2025-06-26 02:46:08,297 - INFO - Directory ensured: c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\logs
+2025-06-26 02:46:08,298 - INFO - Directory ensured: c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\data\processed
+2025-06-26 02:46:08,300 - INFO - Directory ensured: c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\data\eval

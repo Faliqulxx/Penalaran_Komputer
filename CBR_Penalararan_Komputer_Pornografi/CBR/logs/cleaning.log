@@ -1,0 +1,375 @@
+2025-06-26 01:40:49,181 - INFO - Logging initialized at c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\CBR\logs\cleaning.log
+2025-06-26 01:40:49,295 - INFO - Starting main execution at 2025-06-26 01:40:49
+2025-06-26 01:40:49,295 - INFO - Starting scraper with URL: https://putusan3.mahkamahagung.go.id/search.html?q=pornografi&jenis_doc=putusan&cat=d92c02366ae91966e4cdbe6279fc36eb&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr=, max_files: 50
+2025-06-26 01:40:57,798 - INFO - Scraping 48 pages, potential 960 files
+2025-06-26 01:40:57,809 - INFO - Processing page 1: https://putusan3.mahkamahagung.go.id/search.html?q=pornografi&jenis_doc=putusan&cat=d92c02366ae91966e4cdbe6279fc36eb&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr=&page=1&obf=TANGGAL_PUTUS&obm=desc
+2025-06-26 01:41:10,756 - INFO - Successfully downloaded: putusan_153_pid_2025_pt_plg_20250626014110_case_2025-06-26.pdf
+2025-06-26 01:41:10,756 - INFO - Processed file 1/50: putusan_153_pid_2025_pt_plg_20250626014110_case_2025-06-26.pdf
+2025-06-26 01:41:23,623 - INFO - Successfully downloaded: putusan_198_pid.sus_2025_pn_dps_20250626014122_case_2025-06-26.pdf
+2025-06-26 01:41:23,624 - INFO - Processed file 2/50: putusan_198_pid.sus_2025_pn_dps_20250626014122_case_2025-06-26.pdf
+2025-06-26 01:41:39,195 - INFO - Successfully downloaded: putusan_10_pid.sus-anak_2025_pn_sbs_20250626014138_case_2025-06-26.pdf
+2025-06-26 01:41:39,196 - INFO - Processed file 3/50: putusan_10_pid.sus-anak_2025_pn_sbs_20250626014138_case_2025-06-26.pdf
+2025-06-26 01:42:00,357 - INFO - Successfully downloaded: putusan_423_pid.sus_2025_pn_dps_20250626014155_case_2025-06-26.pdf
+2025-06-26 01:42:00,357 - INFO - Processed file 4/50: putusan_423_pid.sus_2025_pn_dps_20250626014155_case_2025-06-26.pdf
+2025-06-26 01:42:07,648 - INFO - Successfully downloaded: putusan_228_pid.sus_2025_pn_dps_20250626014206_case_2025-06-26.pdf
+2025-06-26 01:42:07,648 - INFO - Processed file 5/50: putusan_228_pid.sus_2025_pn_dps_20250626014206_case_2025-06-26.pdf
+2025-06-26 01:42:19,232 - INFO - Successfully downloaded: putusan_31_pid.b_2025_pn_tnn_20250626014218_case_2025-06-26.pdf
+2025-06-26 01:42:19,232 - INFO - Processed file 6/50: putusan_31_pid.b_2025_pn_tnn_20250626014218_case_2025-06-26.pdf
+2025-06-26 01:42:32,761 - INFO - Successfully downloaded: putusan_220_pid.b_2025_pn_srg_20250626014230_case_2025-06-26.pdf
+2025-06-26 01:42:32,761 - INFO - Processed file 7/50: putusan_220_pid.b_2025_pn_srg_20250626014230_case_2025-06-26.pdf
+2025-06-26 01:42:43,156 - INFO - Successfully downloaded: putusan_13_pid.sus_2025_pn_rkb_20250626014242_case_2025-06-26.pdf
+2025-06-26 01:42:43,156 - INFO - Processed file 8/50: putusan_13_pid.sus_2025_pn_rkb_20250626014242_case_2025-06-26.pdf
+2025-06-26 01:42:55,416 - INFO - Successfully downloaded: putusan_43_pid.sus_2025_pn_skw_20250626014254_case_2025-06-26.pdf
+2025-06-26 01:42:55,416 - INFO - Processed file 9/50: putusan_43_pid.sus_2025_pn_skw_20250626014254_case_2025-06-26.pdf
+2025-06-26 01:43:07,400 - INFO - Successfully downloaded: putusan_114_pid.b_2025_pn_lmg_20250626014306_case_2025-06-26.pdf
+2025-06-26 01:43:07,400 - INFO - Processed file 10/50: putusan_114_pid.b_2025_pn_lmg_20250626014306_case_2025-06-26.pdf
+2025-06-26 01:43:22,193 - INFO - Successfully downloaded: putusan_150_pid.b_2024_pn_plp_20250626014319_case_2025-06-26.pdf
+2025-06-26 01:43:22,193 - INFO - Processed file 11/50: putusan_150_pid.b_2024_pn_plp_20250626014319_case_2025-06-26.pdf
+2025-06-26 01:43:35,095 - INFO - Successfully downloaded: putusan_8_pid.sus_2025_pn_ckr___ite___20250626014332_case_2025-06-26.pdf
+2025-06-26 01:43:35,095 - INFO - Processed file 12/50: putusan_8_pid.sus_2025_pn_ckr___ite___20250626014332_case_2025-06-26.pdf
+2025-06-26 01:43:43,857 - INFO - Successfully downloaded: putusan_513_pid.b_2024_pn_jap_20250626014343_case_2025-06-26.pdf
+2025-06-26 01:43:43,857 - INFO - Processed file 13/50: putusan_513_pid.b_2024_pn_jap_20250626014343_case_2025-06-26.pdf
+2025-06-26 01:44:11,117 - INFO - Successfully downloaded: putusan_56_pid.b_2025_pn_kba_20250626014405_case_2025-06-26.pdf
+2025-06-26 01:44:11,117 - INFO - Processed file 14/50: putusan_56_pid.b_2025_pn_kba_20250626014405_case_2025-06-26.pdf
+2025-06-26 01:44:17,968 - INFO - Successfully downloaded: putusan_54_pid.sus_2025_pn_jmb_20250626014417_case_2025-06-26.pdf
+2025-06-26 01:44:17,968 - INFO - Processed file 15/50: putusan_54_pid.sus_2025_pn_jmb_20250626014417_case_2025-06-26.pdf
+2025-06-26 01:44:32,722 - INFO - Successfully downloaded: putusan_78_pid.b_2025_pn_jkt.sel_20250626014431_case_2025-06-26.pdf
+2025-06-26 01:44:32,723 - INFO - Processed file 16/50: putusan_78_pid.b_2025_pn_jkt.sel_20250626014431_case_2025-06-26.pdf
+2025-06-26 01:44:43,689 - INFO - Successfully downloaded: putusan_502_pid.sus_2025_pn_sby_20250626014441_case_2025-06-26.pdf
+2025-06-26 01:44:43,689 - INFO - Processed file 17/50: putusan_502_pid.sus_2025_pn_sby_20250626014441_case_2025-06-26.pdf
+2025-06-26 01:44:56,459 - INFO - Successfully downloaded: putusan_22_pid_2025_pt_dps_20250626014455_case_2025-06-26.pdf
+2025-06-26 01:44:56,459 - INFO - Processed file 18/50: putusan_22_pid_2025_pt_dps_20250626014455_case_2025-06-26.pdf
+2025-06-26 01:44:59,447 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:44:59,447 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf00946d9cd939c999c313430303335.html
+2025-06-26 01:45:05,677 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:45:05,677 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf00a57c4f1b9be879c323233343133.html
+2025-06-26 01:45:11,495 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:45:11,496 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf051e5b68f03388e40323335393130.html
+2025-06-26 01:45:17,529 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:45:17,529 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf051e5b1ee951ec00b323335393032.html
+2025-06-26 01:45:36,200 - INFO - Successfully downloaded: putusan_152_pdt.g_2025_pa.sidrap_20250626014532_case_2025-06-26.pdf
+2025-06-26 01:45:36,200 - INFO - Processed file 19/50: putusan_152_pdt.g_2025_pa.sidrap_20250626014532_case_2025-06-26.pdf
+2025-06-26 01:45:36,200 - INFO - Completed processing page 1
+2025-06-26 01:45:36,200 - INFO - Processing page 2: https://putusan3.mahkamahagung.go.id/search.html?q=pornografi&jenis_doc=putusan&cat=d92c02366ae91966e4cdbe6279fc36eb&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr=&page=2&obf=TANGGAL_PUTUS&obm=desc
+2025-06-26 01:45:53,683 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:45:53,683 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf00915ddda30caae4e303830393536.html
+2025-06-26 01:46:07,459 - INFO - Successfully downloaded: putusan_25_pid.b_2025_pn_ksp_20250626014605_case_2025-06-26.pdf
+2025-06-26 01:46:07,459 - INFO - Processed file 20/50: putusan_25_pid.b_2025_pn_ksp_20250626014605_case_2025-06-26.pdf
+2025-06-26 01:46:18,446 - INFO - Successfully downloaded: putusan_40_pid.b_2025_pn_sgl_20250626014617_case_2025-06-26.pdf
+2025-06-26 01:46:18,446 - INFO - Processed file 21/50: putusan_40_pid.b_2025_pn_sgl_20250626014617_case_2025-06-26.pdf
+2025-06-26 01:46:30,581 - INFO - Successfully downloaded: putusan_11_pid.b_2025_pn_skb_20250626014629_case_2025-06-26.pdf
+2025-06-26 01:46:30,582 - INFO - Processed file 22/50: putusan_11_pid.b_2025_pn_skb_20250626014629_case_2025-06-26.pdf
+2025-06-26 01:46:43,522 - INFO - Successfully downloaded: putusan_51_pid.sus_2025_pn_jmb_20250626014642_case_2025-06-26.pdf
+2025-06-26 01:46:43,522 - INFO - Processed file 23/50: putusan_51_pid.sus_2025_pn_jmb_20250626014642_case_2025-06-26.pdf
+2025-06-26 01:47:01,890 - INFO - Successfully downloaded: putusan_23_pid.b_2025_pn_sit_20250626014657_case_2025-06-26.pdf
+2025-06-26 01:47:01,890 - INFO - Processed file 24/50: putusan_23_pid.b_2025_pn_sit_20250626014657_case_2025-06-26.pdf
+2025-06-26 01:47:08,835 - INFO - Successfully downloaded: putusan_2_pid.b_2025_pn_pps_20250626014708_case_2025-06-26.pdf
+2025-06-26 01:47:08,835 - INFO - Processed file 25/50: putusan_2_pid.b_2025_pn_pps_20250626014708_case_2025-06-26.pdf
+2025-06-26 01:47:29,768 - INFO - Successfully downloaded: putusan_177_pid.sus_2024_pn_jth_20250626014724_case_2025-06-26.pdf
+2025-06-26 01:47:29,769 - INFO - Processed file 26/50: putusan_177_pid.sus_2024_pn_jth_20250626014724_case_2025-06-26.pdf
+2025-06-26 01:47:36,986 - INFO - Successfully downloaded: putusan_50_pid.sus_2025_pn_jmb_20250626014735_case_2025-06-26.pdf
+2025-06-26 01:47:36,986 - INFO - Processed file 27/50: putusan_50_pid.sus_2025_pn_jmb_20250626014735_case_2025-06-26.pdf
+2025-06-26 01:47:51,595 - INFO - Successfully downloaded: putusan_12_pid.b_2025_pn_bau_20250626014748_case_2025-06-26.pdf
+2025-06-26 01:47:51,596 - INFO - Processed file 28/50: putusan_12_pid.b_2025_pn_bau_20250626014748_case_2025-06-26.pdf
+2025-06-26 01:48:03,565 - INFO - Successfully downloaded: putusan_230_pid_2025_pt_mks_20250626014801_case_2025-06-26.pdf
+2025-06-26 01:48:03,566 - INFO - Processed file 29/50: putusan_230_pid_2025_pt_mks_20250626014801_case_2025-06-26.pdf
+2025-06-26 01:48:22,450 - INFO - Successfully downloaded: putusan_9_pid.b_2025_pn_bau_20250626014815_case_2025-06-26.pdf
+2025-06-26 01:48:22,450 - INFO - Processed file 30/50: putusan_9_pid.b_2025_pn_bau_20250626014815_case_2025-06-26.pdf
+2025-06-26 01:48:30,375 - INFO - Successfully downloaded: putusan_4_pid.b_2025_pn_pps_20250626014828_case_2025-06-26.pdf
+2025-06-26 01:48:30,376 - INFO - Processed file 31/50: putusan_4_pid.b_2025_pn_pps_20250626014828_case_2025-06-26.pdf
+2025-06-26 01:48:47,199 - INFO - Successfully downloaded: putusan_131_pid.b_2025_pn_dps_20250626014840_case_2025-06-26.pdf
+2025-06-26 01:48:47,200 - INFO - Processed file 32/50: putusan_131_pid.b_2025_pn_dps_20250626014840_case_2025-06-26.pdf
+2025-06-26 01:48:56,212 - INFO - Successfully downloaded: putusan_63_pid.b_2025_pn_dps_20250626014854_case_2025-06-26.pdf
+2025-06-26 01:48:56,212 - INFO - Processed file 33/50: putusan_63_pid.b_2025_pn_dps_20250626014854_case_2025-06-26.pdf
+2025-06-26 01:49:06,027 - INFO - Successfully downloaded: putusan_69_pid.b_2025_pn_dps_20250626014905_case_2025-06-26.pdf
+2025-06-26 01:49:06,027 - INFO - Processed file 34/50: putusan_69_pid.b_2025_pn_dps_20250626014905_case_2025-06-26.pdf
+2025-06-26 01:49:18,643 - INFO - Successfully downloaded: putusan_130_pid.b_2025_pn_dps_20250626014917_case_2025-06-26.pdf
+2025-06-26 01:49:18,643 - INFO - Processed file 35/50: putusan_130_pid.b_2025_pn_dps_20250626014917_case_2025-06-26.pdf
+2025-06-26 01:49:31,002 - INFO - Successfully downloaded: putusan_62_pid.b_2025_pn_dps_20250626014929_case_2025-06-26.pdf
+2025-06-26 01:49:31,003 - INFO - Processed file 36/50: putusan_62_pid.b_2025_pn_dps_20250626014929_case_2025-06-26.pdf
+2025-06-26 01:49:43,532 - INFO - Successfully downloaded: putusan_6_pid.b_2025_pn_pli_20250626014941_case_2025-06-26.pdf
+2025-06-26 01:49:43,532 - INFO - Processed file 37/50: putusan_6_pid.b_2025_pn_pli_20250626014941_case_2025-06-26.pdf
+2025-06-26 01:49:55,153 - INFO - Successfully downloaded: putusan_5_pid.sus_2025_pn_blt_20250626014953_case_2025-06-26.pdf
+2025-06-26 01:49:55,153 - INFO - Processed file 38/50: putusan_5_pid.sus_2025_pn_blt_20250626014953_case_2025-06-26.pdf
+2025-06-26 01:49:59,640 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:49:59,640 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf051e5b68f03388e40323335393130.html
+2025-06-26 01:50:05,658 - ERROR - Failed to get PDF URL: 'NoneType' object is not subscriptable
+2025-06-26 01:50:05,658 - INFO - No PDF found for https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf051e5b1ee951ec00b323335393032.html
+2025-06-26 01:50:18,453 - INFO - Successfully downloaded: putusan_152_pdt.g_2025_pa.sidrap_20250626015017_case_2025-06-26.pdf
+2025-06-26 01:50:18,453 - INFO - Processed file 39/50: putusan_152_pdt.g_2025_pa.sidrap_20250626015017_case_2025-06-26.pdf
+2025-06-26 01:50:18,453 - INFO - Completed processing page 2
+2025-06-26 01:50:18,453 - INFO - Processing page 3: https://putusan3.mahkamahagung.go.id/search.html?q=pornografi&jenis_doc=putusan&cat=d92c02366ae91966e4cdbe6279fc36eb&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr=&page=3&obf=TANGGAL_PUTUS&obm=desc
+2025-06-26 01:50:40,243 - INFO - Successfully downloaded: putusan_12_pid.b_2025_pn_tdn_20250626015039_case_2025-06-26.pdf
+2025-06-26 01:50:40,243 - INFO - Processed file 40/50: putusan_12_pid.b_2025_pn_tdn_20250626015039_case_2025-06-26.pdf
+2025-06-26 01:50:55,255 - INFO - Successfully downloaded: putusan_1156_pid.sus_2024_pn_tjk_20250626015051_case_2025-06-26.pdf
+2025-06-26 01:50:55,256 - INFO - Processed file 41/50: putusan_1156_pid.sus_2024_pn_tjk_20250626015051_case_2025-06-26.pdf
+2025-06-26 01:51:12,544 - INFO - Successfully downloaded: putusan_2_pid.sus_2025_pn_pbg_20250626015103_case_2025-06-26.pdf
+2025-06-26 01:51:12,544 - INFO - Processed file 42/50: putusan_2_pid.sus_2025_pn_pbg_20250626015103_case_2025-06-26.pdf
+2025-06-26 01:51:20,439 - INFO - Successfully downloaded: putusan_774_pid.sus_2024_pn_jkt.sel_20250626015119_case_2025-06-26.pdf
+2025-06-26 01:51:20,439 - INFO - Processed file 43/50: putusan_774_pid.sus_2024_pn_jkt.sel_20250626015119_case_2025-06-26.pdf
+2025-06-26 01:51:34,022 - INFO - Successfully downloaded: putusan_303_pid_2025_pt_mdn_20250626015131_case_2025-06-26.pdf
+2025-06-26 01:51:34,022 - INFO - Processed file 44/50: putusan_303_pid_2025_pt_mdn_20250626015131_case_2025-06-26.pdf
+2025-06-26 01:51:45,697 - INFO - Successfully downloaded: putusan_843_pid.b_2024_pn_srg_20250626015142_case_2025-06-26.pdf
+2025-06-26 01:51:45,698 - INFO - Processed file 45/50: putusan_843_pid.b_2024_pn_srg_20250626015142_case_2025-06-26.pdf
+2025-06-26 01:52:11,529 - INFO - Successfully downloaded: putusan_1030_pid.sus_2024_pn_bdg_20250626015200_case_2025-06-26.pdf
+2025-06-26 01:52:11,530 - INFO - Processed file 46/50: putusan_1030_pid.sus_2024_pn_bdg_20250626015200_case_2025-06-26.pdf
+2025-06-26 01:52:25,427 - INFO - Successfully downloaded: putusan_129_pid_2025_pt_mks_20250626015224_case_2025-06-26.pdf
+2025-06-26 01:52:25,428 - INFO - Processed file 47/50: putusan_129_pid_2025_pt_mks_20250626015224_case_2025-06-26.pdf
+2025-06-26 01:52:32,399 - INFO - Successfully downloaded: putusan_15_pid.sus_2025_pt_tpg_20250626015231_case_2025-06-26.pdf
+2025-06-26 01:52:32,399 - INFO - Processed file 48/50: putusan_15_pid.sus_2025_pt_tpg_20250626015231_case_2025-06-26.pdf
+2025-06-26 01:52:47,417 - INFO - Successfully downloaded: putusan_2361_pid.sus_2024_pn_sby_20250626015243_case_2025-06-26.pdf
+2025-06-26 01:52:47,417 - INFO - Processed file 49/50: putusan_2361_pid.sus_2024_pn_sby_20250626015243_case_2025-06-26.pdf
+2025-06-26 01:52:59,382 - INFO - Successfully downloaded: putusan_6_pid.b_2025_pn_ptk_20250626015256_case_2025-06-26.pdf
+2025-06-26 01:52:59,382 - INFO - Processed file 50/50: putusan_6_pid.b_2025_pn_ptk_20250626015256_case_2025-06-26.pdf
+2025-06-26 01:52:59,382 - INFO - Stopping page processing due to max file limit
+2025-06-26 01:52:59,382 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,382 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,382 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,383 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,384 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Max file limit reached, stopping page processing
+2025-06-26 01:52:59,385 - INFO - Scraping complete. Downloaded 50 PDFs.
+2025-06-26 01:52:59,385 - INFO - Starting PDF processing with max_files=50
+2025-06-26 01:52:59,385 - INFO - Cleared all existing files in c:\Users\Faliq\Pictures\PENALARAN-KOMPUTER\CBR_Penalararan_Komputer\CBR\data\raw
+2025-06-26 01:52:59,386 - INFO - Found 50 PDF files to process
+2025-06-26 01:52:59,386 - INFO - Started processing PDF: putusan_1030_pid.sus_2024_pn_bdg_20250626015200_case_2025-06-26.pdf
+2025-06-26 01:53:01,775 - INFO - Extracted text from putusan_1030_pid.sus_2024_pn_bdg_20250626015200_case_2025-06-26.pdf
+2025-06-26 01:53:01,783 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:01,784 - INFO - Saved/overwritten cleaned text: case_001.txt
+2025-06-26 01:53:01,784 - INFO - Started processing PDF: putusan_10_pid.sus-anak_2025_pn_sbs_20250626014138_case_2025-06-26.pdf
+2025-06-26 01:53:05,820 - INFO - Extracted text from putusan_10_pid.sus-anak_2025_pn_sbs_20250626014138_case_2025-06-26.pdf
+2025-06-26 01:53:05,831 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:05,832 - INFO - Saved/overwritten cleaned text: case_002.txt
+2025-06-26 01:53:05,832 - INFO - Started processing PDF: putusan_114_pid.b_2025_pn_lmg_20250626014306_case_2025-06-26.pdf
+2025-06-26 01:53:07,866 - INFO - Extracted text from putusan_114_pid.b_2025_pn_lmg_20250626014306_case_2025-06-26.pdf
+2025-06-26 01:53:07,873 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:07,874 - INFO - Saved/overwritten cleaned text: case_003.txt
+2025-06-26 01:53:07,874 - INFO - Started processing PDF: putusan_1156_pid.sus_2024_pn_tjk_20250626015051_case_2025-06-26.pdf
+2025-06-26 01:53:09,892 - INFO - Extracted text from putusan_1156_pid.sus_2024_pn_tjk_20250626015051_case_2025-06-26.pdf
+2025-06-26 01:53:09,898 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:09,899 - INFO - Saved/overwritten cleaned text: case_004.txt
+2025-06-26 01:53:09,899 - INFO - Started processing PDF: putusan_11_pid.b_2025_pn_skb_20250626014629_case_2025-06-26.pdf
+2025-06-26 01:53:11,208 - INFO - Extracted text from putusan_11_pid.b_2025_pn_skb_20250626014629_case_2025-06-26.pdf
+2025-06-26 01:53:11,212 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:11,213 - INFO - Saved/overwritten cleaned text: case_005.txt
+2025-06-26 01:53:11,213 - INFO - Started processing PDF: putusan_129_pid_2025_pt_mks_20250626015224_case_2025-06-26.pdf
+2025-06-26 01:53:11,381 - INFO - Extracted text from putusan_129_pid_2025_pt_mks_20250626015224_case_2025-06-26.pdf
+2025-06-26 01:53:11,381 - WARNING - Text integrity below 80% for document: 0.0%
+2025-06-26 01:53:11,381 - INFO - No valid text after cleaning for putusan_129_pid_2025_pt_mks_20250626015224_case_2025-06-26.pdf
+2025-06-26 01:53:11,381 - INFO - Started processing PDF: putusan_12_pid.b_2025_pn_bau_20250626014748_case_2025-06-26.pdf
+2025-06-26 01:53:13,717 - INFO - Extracted text from putusan_12_pid.b_2025_pn_bau_20250626014748_case_2025-06-26.pdf
+2025-06-26 01:53:13,725 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:13,725 - INFO - Saved/overwritten cleaned text: case_007.txt
+2025-06-26 01:53:13,726 - INFO - Started processing PDF: putusan_12_pid.b_2025_pn_tdn_20250626015039_case_2025-06-26.pdf
+2025-06-26 01:53:15,034 - INFO - Extracted text from putusan_12_pid.b_2025_pn_tdn_20250626015039_case_2025-06-26.pdf
+2025-06-26 01:53:15,038 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:15,039 - INFO - Saved/overwritten cleaned text: case_008.txt
+2025-06-26 01:53:15,039 - INFO - Started processing PDF: putusan_130_pid.b_2025_pn_dps_20250626014917_case_2025-06-26.pdf
+2025-06-26 01:53:24,070 - INFO - Extracted text from putusan_130_pid.b_2025_pn_dps_20250626014917_case_2025-06-26.pdf
+2025-06-26 01:53:24,101 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:24,102 - INFO - Saved/overwritten cleaned text: case_009.txt
+2025-06-26 01:53:24,102 - INFO - Started processing PDF: putusan_131_pid.b_2025_pn_dps_20250626014840_case_2025-06-26.pdf
+2025-06-26 01:53:33,847 - INFO - Extracted text from putusan_131_pid.b_2025_pn_dps_20250626014840_case_2025-06-26.pdf
+2025-06-26 01:53:33,879 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:33,879 - INFO - Saved/overwritten cleaned text: case_010.txt
+2025-06-26 01:53:33,879 - INFO - Started processing PDF: putusan_13_pid.sus_2025_pn_rkb_20250626014242_case_2025-06-26.pdf
+2025-06-26 01:53:35,933 - INFO - Extracted text from putusan_13_pid.sus_2025_pn_rkb_20250626014242_case_2025-06-26.pdf
+2025-06-26 01:53:35,941 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:35,942 - INFO - Saved/overwritten cleaned text: case_011.txt
+2025-06-26 01:53:35,942 - INFO - Started processing PDF: putusan_150_pid.b_2024_pn_plp_20250626014319_case_2025-06-26.pdf
+2025-06-26 01:53:37,774 - INFO - Extracted text from putusan_150_pid.b_2024_pn_plp_20250626014319_case_2025-06-26.pdf
+2025-06-26 01:53:37,779 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:37,780 - INFO - Saved/overwritten cleaned text: case_012.txt
+2025-06-26 01:53:37,780 - INFO - Started processing PDF: putusan_152_pdt.g_2025_pa.sidrap_20250626014532_case_2025-06-26.pdf
+2025-06-26 01:53:39,761 - INFO - Extracted text from putusan_152_pdt.g_2025_pa.sidrap_20250626014532_case_2025-06-26.pdf
+2025-06-26 01:53:39,768 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:39,769 - INFO - Saved/overwritten cleaned text: case_013.txt
+2025-06-26 01:53:39,769 - INFO - Started processing PDF: putusan_152_pdt.g_2025_pa.sidrap_20250626015017_case_2025-06-26.pdf
+2025-06-26 01:53:41,741 - INFO - Extracted text from putusan_152_pdt.g_2025_pa.sidrap_20250626015017_case_2025-06-26.pdf
+2025-06-26 01:53:41,747 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:41,748 - INFO - Saved/overwritten cleaned text: case_014.txt
+2025-06-26 01:53:41,748 - INFO - Started processing PDF: putusan_153_pid_2025_pt_plg_20250626014110_case_2025-06-26.pdf
+2025-06-26 01:53:42,336 - INFO - Extracted text from putusan_153_pid_2025_pt_plg_20250626014110_case_2025-06-26.pdf
+2025-06-26 01:53:42,338 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:42,338 - INFO - Saved/overwritten cleaned text: case_015.txt
+2025-06-26 01:53:42,339 - INFO - Started processing PDF: putusan_15_pid.sus_2025_pt_tpg_20250626015231_case_2025-06-26.pdf
+2025-06-26 01:53:43,142 - INFO - Extracted text from putusan_15_pid.sus_2025_pt_tpg_20250626015231_case_2025-06-26.pdf
+2025-06-26 01:53:43,145 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:43,145 - INFO - Saved/overwritten cleaned text: case_016.txt
+2025-06-26 01:53:43,146 - INFO - Started processing PDF: putusan_177_pid.sus_2024_pn_jth_20250626014724_case_2025-06-26.pdf
+2025-06-26 01:53:46,551 - INFO - Extracted text from putusan_177_pid.sus_2024_pn_jth_20250626014724_case_2025-06-26.pdf
+2025-06-26 01:53:46,562 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:46,563 - INFO - Saved/overwritten cleaned text: case_017.txt
+2025-06-26 01:53:46,563 - INFO - Started processing PDF: putusan_198_pid.sus_2025_pn_dps_20250626014122_case_2025-06-26.pdf
+2025-06-26 01:53:53,741 - INFO - Extracted text from putusan_198_pid.sus_2025_pn_dps_20250626014122_case_2025-06-26.pdf
+2025-06-26 01:53:53,765 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:53,765 - INFO - Saved/overwritten cleaned text: case_018.txt
+2025-06-26 01:53:53,765 - INFO - Started processing PDF: putusan_220_pid.b_2025_pn_srg_20250626014230_case_2025-06-26.pdf
+2025-06-26 01:53:55,404 - INFO - Extracted text from putusan_220_pid.b_2025_pn_srg_20250626014230_case_2025-06-26.pdf
+2025-06-26 01:53:55,410 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:53:55,410 - INFO - Saved/overwritten cleaned text: case_019.txt
+2025-06-26 01:53:55,411 - INFO - Started processing PDF: putusan_228_pid.sus_2025_pn_dps_20250626014206_case_2025-06-26.pdf
+2025-06-26 01:54:03,252 - INFO - Extracted text from putusan_228_pid.sus_2025_pn_dps_20250626014206_case_2025-06-26.pdf
+2025-06-26 01:54:03,278 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:03,278 - INFO - Saved/overwritten cleaned text: case_020.txt
+2025-06-26 01:54:03,279 - INFO - Started processing PDF: putusan_22_pid_2025_pt_dps_20250626014455_case_2025-06-26.pdf
+2025-06-26 01:54:04,143 - INFO - Extracted text from putusan_22_pid_2025_pt_dps_20250626014455_case_2025-06-26.pdf
+2025-06-26 01:54:04,147 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:04,147 - INFO - Saved/overwritten cleaned text: case_021.txt
+2025-06-26 01:54:04,147 - INFO - Started processing PDF: putusan_230_pid_2025_pt_mks_20250626014801_case_2025-06-26.pdf
+2025-06-26 01:54:04,314 - INFO - Extracted text from putusan_230_pid_2025_pt_mks_20250626014801_case_2025-06-26.pdf
+2025-06-26 01:54:04,314 - WARNING - Text integrity below 80% for document: 0.0%
+2025-06-26 01:54:04,314 - INFO - No valid text after cleaning for putusan_230_pid_2025_pt_mks_20250626014801_case_2025-06-26.pdf
+2025-06-26 01:54:04,314 - INFO - Started processing PDF: putusan_2361_pid.sus_2024_pn_sby_20250626015243_case_2025-06-26.pdf
+2025-06-26 01:54:05,160 - INFO - Extracted text from putusan_2361_pid.sus_2024_pn_sby_20250626015243_case_2025-06-26.pdf
+2025-06-26 01:54:05,164 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:05,164 - INFO - Saved/overwritten cleaned text: case_023.txt
+2025-06-26 01:54:05,164 - INFO - Started processing PDF: putusan_23_pid.b_2025_pn_sit_20250626014657_case_2025-06-26.pdf
+2025-06-26 01:54:06,541 - INFO - Extracted text from putusan_23_pid.b_2025_pn_sit_20250626014657_case_2025-06-26.pdf
+2025-06-26 01:54:06,546 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:06,547 - INFO - Saved/overwritten cleaned text: case_024.txt
+2025-06-26 01:54:06,547 - INFO - Started processing PDF: putusan_25_pid.b_2025_pn_ksp_20250626014605_case_2025-06-26.pdf
+2025-06-26 01:54:08,173 - INFO - Extracted text from putusan_25_pid.b_2025_pn_ksp_20250626014605_case_2025-06-26.pdf
+2025-06-26 01:54:08,178 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:08,179 - INFO - Saved/overwritten cleaned text: case_025.txt
+2025-06-26 01:54:08,179 - INFO - Started processing PDF: putusan_2_pid.b_2025_pn_pps_20250626014708_case_2025-06-26.pdf
+2025-06-26 01:54:10,941 - INFO - Extracted text from putusan_2_pid.b_2025_pn_pps_20250626014708_case_2025-06-26.pdf
+2025-06-26 01:54:10,950 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:10,951 - INFO - Saved/overwritten cleaned text: case_026.txt
+2025-06-26 01:54:10,951 - INFO - Started processing PDF: putusan_2_pid.sus_2025_pn_pbg_20250626015103_case_2025-06-26.pdf
+2025-06-26 01:54:12,458 - INFO - Extracted text from putusan_2_pid.sus_2025_pn_pbg_20250626015103_case_2025-06-26.pdf
+2025-06-26 01:54:12,464 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:12,464 - INFO - Saved/overwritten cleaned text: case_027.txt
+2025-06-26 01:54:12,464 - INFO - Started processing PDF: putusan_303_pid_2025_pt_mdn_20250626015131_case_2025-06-26.pdf
+2025-06-26 01:54:13,399 - INFO - Extracted text from putusan_303_pid_2025_pt_mdn_20250626015131_case_2025-06-26.pdf
+2025-06-26 01:54:13,403 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:13,403 - INFO - Saved/overwritten cleaned text: case_028.txt
+2025-06-26 01:54:13,403 - INFO - Started processing PDF: putusan_31_pid.b_2025_pn_tnn_20250626014218_case_2025-06-26.pdf
+2025-06-26 01:54:14,667 - INFO - Extracted text from putusan_31_pid.b_2025_pn_tnn_20250626014218_case_2025-06-26.pdf
+2025-06-26 01:54:14,671 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:14,673 - INFO - Saved/overwritten cleaned text: case_029.txt
+2025-06-26 01:54:14,673 - INFO - Started processing PDF: putusan_40_pid.b_2025_pn_sgl_20250626014617_case_2025-06-26.pdf
+2025-06-26 01:54:18,280 - INFO - Extracted text from putusan_40_pid.b_2025_pn_sgl_20250626014617_case_2025-06-26.pdf
+2025-06-26 01:54:18,292 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:18,293 - INFO - Saved/overwritten cleaned text: case_030.txt
+2025-06-26 01:54:18,293 - INFO - Started processing PDF: putusan_423_pid.sus_2025_pn_dps_20250626014155_case_2025-06-26.pdf
+2025-06-26 01:54:20,343 - INFO - Extracted text from putusan_423_pid.sus_2025_pn_dps_20250626014155_case_2025-06-26.pdf
+2025-06-26 01:54:20,349 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:20,350 - INFO - Saved/overwritten cleaned text: case_031.txt
+2025-06-26 01:54:20,350 - INFO - Started processing PDF: putusan_43_pid.sus_2025_pn_skw_20250626014254_case_2025-06-26.pdf
+2025-06-26 01:54:21,399 - INFO - Extracted text from putusan_43_pid.sus_2025_pn_skw_20250626014254_case_2025-06-26.pdf
+2025-06-26 01:54:21,403 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:21,403 - INFO - Saved/overwritten cleaned text: case_032.txt
+2025-06-26 01:54:21,403 - INFO - Started processing PDF: putusan_4_pid.b_2025_pn_pps_20250626014828_case_2025-06-26.pdf
+2025-06-26 01:54:23,376 - INFO - Extracted text from putusan_4_pid.b_2025_pn_pps_20250626014828_case_2025-06-26.pdf
+2025-06-26 01:54:23,383 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:23,384 - INFO - Saved/overwritten cleaned text: case_033.txt
+2025-06-26 01:54:23,384 - INFO - Started processing PDF: putusan_502_pid.sus_2025_pn_sby_20250626014441_case_2025-06-26.pdf
+2025-06-26 01:54:24,385 - INFO - Extracted text from putusan_502_pid.sus_2025_pn_sby_20250626014441_case_2025-06-26.pdf
+2025-06-26 01:54:24,388 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:24,389 - INFO - Saved/overwritten cleaned text: case_034.txt
+2025-06-26 01:54:24,389 - INFO - Started processing PDF: putusan_50_pid.sus_2025_pn_jmb_20250626014735_case_2025-06-26.pdf
+2025-06-26 01:54:26,448 - INFO - Extracted text from putusan_50_pid.sus_2025_pn_jmb_20250626014735_case_2025-06-26.pdf
+2025-06-26 01:54:26,455 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:26,456 - INFO - Saved/overwritten cleaned text: case_035.txt
+2025-06-26 01:54:26,456 - INFO - Started processing PDF: putusan_513_pid.b_2024_pn_jap_20250626014343_case_2025-06-26.pdf
+2025-06-26 01:54:28,155 - INFO - Extracted text from putusan_513_pid.b_2024_pn_jap_20250626014343_case_2025-06-26.pdf
+2025-06-26 01:54:28,161 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:28,161 - INFO - Saved/overwritten cleaned text: case_036.txt
+2025-06-26 01:54:28,161 - INFO - Started processing PDF: putusan_51_pid.sus_2025_pn_jmb_20250626014642_case_2025-06-26.pdf
+2025-06-26 01:54:30,187 - INFO - Extracted text from putusan_51_pid.sus_2025_pn_jmb_20250626014642_case_2025-06-26.pdf
+2025-06-26 01:54:30,193 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:30,194 - INFO - Saved/overwritten cleaned text: case_037.txt
+2025-06-26 01:54:30,194 - INFO - Started processing PDF: putusan_54_pid.sus_2025_pn_jmb_20250626014417_case_2025-06-26.pdf
+2025-06-26 01:54:31,333 - INFO - Extracted text from putusan_54_pid.sus_2025_pn_jmb_20250626014417_case_2025-06-26.pdf
+2025-06-26 01:54:31,337 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:31,338 - INFO - Saved/overwritten cleaned text: case_038.txt
+2025-06-26 01:54:31,338 - INFO - Started processing PDF: putusan_56_pid.b_2025_pn_kba_20250626014405_case_2025-06-26.pdf
+2025-06-26 01:54:34,162 - INFO - Extracted text from putusan_56_pid.b_2025_pn_kba_20250626014405_case_2025-06-26.pdf
+2025-06-26 01:54:34,171 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:34,172 - INFO - Saved/overwritten cleaned text: case_039.txt
+2025-06-26 01:54:34,172 - INFO - Started processing PDF: putusan_5_pid.sus_2025_pn_blt_20250626014953_case_2025-06-26.pdf
+2025-06-26 01:54:35,583 - INFO - Extracted text from putusan_5_pid.sus_2025_pn_blt_20250626014953_case_2025-06-26.pdf
+2025-06-26 01:54:35,587 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:35,588 - INFO - Saved/overwritten cleaned text: case_040.txt
+2025-06-26 01:54:35,588 - INFO - Started processing PDF: putusan_62_pid.b_2025_pn_dps_20250626014929_case_2025-06-26.pdf
+2025-06-26 01:54:46,382 - INFO - Extracted text from putusan_62_pid.b_2025_pn_dps_20250626014929_case_2025-06-26.pdf
+2025-06-26 01:54:46,419 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:46,420 - INFO - Saved/overwritten cleaned text: case_041.txt
+2025-06-26 01:54:46,420 - INFO - Started processing PDF: putusan_63_pid.b_2025_pn_dps_20250626014854_case_2025-06-26.pdf
+2025-06-26 01:54:57,373 - INFO - Extracted text from putusan_63_pid.b_2025_pn_dps_20250626014854_case_2025-06-26.pdf
+2025-06-26 01:54:57,408 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:57,409 - INFO - Saved/overwritten cleaned text: case_042.txt
+2025-06-26 01:54:57,409 - INFO - Started processing PDF: putusan_69_pid.b_2025_pn_dps_20250626014905_case_2025-06-26.pdf
+2025-06-26 01:54:59,439 - INFO - Extracted text from putusan_69_pid.b_2025_pn_dps_20250626014905_case_2025-06-26.pdf
+2025-06-26 01:54:59,445 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:54:59,446 - INFO - Saved/overwritten cleaned text: case_043.txt
+2025-06-26 01:54:59,446 - INFO - Started processing PDF: putusan_6_pid.b_2025_pn_pli_20250626014941_case_2025-06-26.pdf
+2025-06-26 01:55:01,795 - INFO - Extracted text from putusan_6_pid.b_2025_pn_pli_20250626014941_case_2025-06-26.pdf
+2025-06-26 01:55:01,803 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:01,804 - INFO - Saved/overwritten cleaned text: case_044.txt
+2025-06-26 01:55:01,805 - INFO - Started processing PDF: putusan_6_pid.b_2025_pn_ptk_20250626015256_case_2025-06-26.pdf
+2025-06-26 01:55:02,870 - INFO - Extracted text from putusan_6_pid.b_2025_pn_ptk_20250626015256_case_2025-06-26.pdf
+2025-06-26 01:55:02,873 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:02,874 - INFO - Saved/overwritten cleaned text: case_045.txt
+2025-06-26 01:55:02,874 - INFO - Started processing PDF: putusan_774_pid.sus_2024_pn_jkt.sel_20250626015119_case_2025-06-26.pdf
+2025-06-26 01:55:04,755 - INFO - Extracted text from putusan_774_pid.sus_2024_pn_jkt.sel_20250626015119_case_2025-06-26.pdf
+2025-06-26 01:55:04,761 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:04,762 - INFO - Saved/overwritten cleaned text: case_046.txt
+2025-06-26 01:55:04,762 - INFO - Started processing PDF: putusan_78_pid.b_2025_pn_jkt.sel_20250626014431_case_2025-06-26.pdf
+2025-06-26 01:55:09,665 - INFO - Extracted text from putusan_78_pid.b_2025_pn_jkt.sel_20250626014431_case_2025-06-26.pdf
+2025-06-26 01:55:09,680 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:09,681 - INFO - Saved/overwritten cleaned text: case_047.txt
+2025-06-26 01:55:09,681 - INFO - Started processing PDF: putusan_843_pid.b_2024_pn_srg_20250626015142_case_2025-06-26.pdf
+2025-06-26 01:55:10,423 - INFO - Extracted text from putusan_843_pid.b_2024_pn_srg_20250626015142_case_2025-06-26.pdf
+2025-06-26 01:55:10,427 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:10,427 - INFO - Saved/overwritten cleaned text: case_048.txt
+2025-06-26 01:55:10,427 - INFO - Started processing PDF: putusan_8_pid.sus_2025_pn_ckr___ite___20250626014332_case_2025-06-26.pdf
+2025-06-26 01:55:14,491 - INFO - Extracted text from putusan_8_pid.sus_2025_pn_ckr___ite___20250626014332_case_2025-06-26.pdf
+2025-06-26 01:55:14,503 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:14,504 - INFO - Saved/overwritten cleaned text: case_049.txt
+2025-06-26 01:55:14,504 - INFO - Started processing PDF: putusan_9_pid.b_2025_pn_bau_20250626014815_case_2025-06-26.pdf
+2025-06-26 01:55:16,081 - INFO - Extracted text from putusan_9_pid.b_2025_pn_bau_20250626014815_case_2025-06-26.pdf
+2025-06-26 01:55:16,086 - INFO - Cleaned text successfully, integrity: 100.0%
+2025-06-26 01:55:16,087 - INFO - Saved/overwritten cleaned text: case_050.txt
+2025-06-26 01:55:16,087 - INFO - Processing complete. Generated 48 text files.
+2025-06-26 01:55:16,088 - INFO - Main execution completed at 2025-06-26 01:55:16
